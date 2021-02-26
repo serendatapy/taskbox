@@ -10,7 +10,7 @@
         :value="task.title"
         readonly
         placeholder="Input title"
-        style="background: pink"
+        style="text-overflow: ellipsis"
       />
     </div>
 
